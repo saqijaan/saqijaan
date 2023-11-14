@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saqijaan. A Senior software developer, having experience of working with laravel projects. 
 - 👀 I’m interested in new ideas and open source projects built with laravel.
 - 🌱 I’m currently learning React Native. 
-- 💞️ I’m looking to collaborate on open source projects build with laravel.
+- 💞️ I’m looking to collaborate on open source projects built with laravel.
 - 📫 Reach me at saqiba874@gmail.com
 
 <!---
